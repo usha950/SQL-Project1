@@ -284,8 +284,4 @@ understanding of database management and real-world payroll operations.
 
 ------------------------------------------------------------------------
 
-**Project Name:** Employee Payroll Management System\
-**Database:** MySQL\
-**Project Type:** SQL Database Project\
-**Number of Tables:** 5\
-**Sample Records:** 75
+
